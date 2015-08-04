@@ -1,6 +1,8 @@
 Richard Bolkey's Guice Tutorial
 ==============
 
+[![Join the chat at https://gitter.im/slugmandrew/guice-tutorials](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/slugmandrew/guice-tutorials?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/rbolkey/guice-tutorials.png)](https://travis-ci.org/rbolkey/guice-tutorials)
 
 ## Part 1: Building a simple object graph.
